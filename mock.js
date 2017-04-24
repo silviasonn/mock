@@ -3,6 +3,6 @@ function greeting() {
 }
 
 function greeting() {
-  console.log("hi");
+  console.log("hi!");
 }
 
